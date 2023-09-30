@@ -7,7 +7,7 @@ And then run it whit only the SnakeGame class.
 Like this:
 
 ```
-javac SnakeGame.java
+javac GameFrame.java GamePanel.java SnakeGame.java
 
 java SnakeGame
 ```
